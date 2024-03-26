@@ -1,6 +1,7 @@
 {"10.90.17.151", //Sune s8
 "10.90.17.43", // Nikolaj
 "10.90.17.44", // Laust
+"10.90.17.40", // Emil
 
 };
 //Please remember to add a comma
